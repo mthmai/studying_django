@@ -5,5 +5,6 @@
 ---
 
 ***
+Esse projeto é utilizado para aprender a usar o web FrameWork Django
 
 ___
