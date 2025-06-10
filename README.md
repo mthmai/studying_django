@@ -80,4 +80,12 @@ As configurações foram retiradas do curso de Django que fiz do Otávio Miranda
 
 
 
+## Uso do commitizen
+
+Nesse projeto foi optado por testar o uso de uma ferramenta auxiliar para commits, o ***Commitizen*** (https://commitizen-tools.github.io/commitizen/). Segue o passo a passo da configuração dele no projeto e algumas explicações:
+
+- Primeiro passo: Conferir se o ***nodejs*** está instalado globalmente na máquina. Para isso, deve-se utilizar o seguinte comando: ```node -v```. Se a versão aparecer, então significa que está instalado, se não, deve ir até o site https://nodejs.org/pt e baixar via ***LTS***;
+
+- Segundo passo: Depois de instalar e configurar o ***nodejs*** verifique se o ***npm*** está sendo reconhecido através do seguinte comando: ```npm -v```. Se a versão aparecer, então significa que está instalado, se não, deve reiniciar o terminal e verificar novamente o ***nodejs***. Se o erro persistir, busque informações em forum ou IA's;
+
 Nesse projeto temos o desenvolvimento do que foi aprendido nesse curso, tudo foi feito em uma única branch (***main***);
